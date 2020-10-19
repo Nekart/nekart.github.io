@@ -1,0 +1,130 @@
+header{text-align: center;}
+
+li{display: inline-block;
+
+list-style: none;margin-inline:initial;
+ padding: 4px 20px;
+background: rgb(128, 128, 127);
+color: black;
+border: 1px solid rgb(0, 0, 0);
+font: initial;
+}
+li{ display: inline-block;
+    background: rgb(230, 230, 230);
+   
+    font: 1em "Trebuchet MS", Arial,sans-serif;
+font-size: 16;border-radius: 10px;
+}
+ nav{display: flex;justify-content: space-around;flex-direction: column;}   
+
+.menu1{text-align: center;}
+.txt1{text-align: center;  }
+.txt1{font-size: 20px;}
+#logo{width: 90%;
+   
+height: auto;
+margin-left: auto ;
+}
+.a{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.a:hover {opacity: .20;
+
+}
+.b{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.b:hover {opacity: .20;
+
+}
+.c{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.c:hover {opacity: .20;
+
+}
+.d{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.d:hover {opacity: .20;
+
+}
+
+.e{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.e:hover {opacity: .20;
+
+}
+.f{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.f:hover {opacity: .20;
+
+}
+.g{
+    opacity: 1;
+    -webkit-transition: .30s ease-in-out;
+    transition: .20 ease-in-out;
+}
+.g:hover {opacity: .20;
+
+}
+.menu1{background: rgb(224, 218, 200);}
+.txt1{
+text-align: center;}
+#moi{display: block;margin-left: auto;margin-right: auto;
+    text-align: center;
+width: 30%;}
+#grf{margin-left: 15%; width: 30%;min-width: width 500px}
+#grf2{margin-left: 10%;width: 30%;min-width: width 500px; ;
+}
+.menu2{background: rgb(224, 218, 200);
+text-align: center;
+font-size: 30px;}
+.menu3{background: rgb(224, 218, 200);
+    text-align: center;
+    font-size: 30px
+    }
+   
+    #graph01{
+        display: flex;justify-content: space-around;
+        
+    }
+    #prod1{width: 20%;}
+    .paragraphe1{
+        display: flex; flex-direction: column;justify-content: space-around;
+    }
+    .menu4{
+        background: rgb(224, 218, 200);
+        text-align: center;
+        font-size: 30px  
+    }
+    .menu5{
+        background: rgb(224, 218, 200);
+        text-align: center;
+        font-size: 30px  
+    }
+    .menu6{
+        background: rgb(224, 218, 200);
+        text-align: center;
+        font-size: 30px 
+    }
+    .lemotif{width: 30%;}
+    .menu7{   background: rgb(209, 209, 209); text-align: center;
+        font-size: 20px }
+        
+    #menu2{display: flex;justify-content: space-around;}   
+    
